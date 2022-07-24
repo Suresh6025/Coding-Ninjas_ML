@@ -1,4 +1,5 @@
+# Jupyter ipynb checkpoints folder
+**.ipynb
 
-*.ipynb
-
-*.idea
+# Jetbrains Pycharm project extensions
+**.idea
